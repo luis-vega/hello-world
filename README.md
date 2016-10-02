@@ -1,8 +1,6 @@
 # hello-world
 Hello World Example
 
-This is an example
-
 Hi GitHub,
 
 My name is Luis Vega, and I'm trying to understand how do you
